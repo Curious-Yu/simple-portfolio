@@ -29,5 +29,5 @@ body {
   text-align: center;
   line-height: 0;
   align-self: center;
-  mini-height: 100vh;
+  min-height: 100vh;
 }
