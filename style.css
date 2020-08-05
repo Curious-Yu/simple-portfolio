@@ -19,7 +19,7 @@ body {
   width: 100px;
   margin: 0;
   text-align: center;
-  line-height: 75px;
+  line-height: 0;
 }
 
 .content {
@@ -27,6 +27,7 @@ body {
   width: 100px;
   margin: 10px;
   text-align: center;
-  line-height: 75px;
-  align-self: center
+  line-height: 0;
+  align-self: center;
+  mini-height: 100vh;
 }
