@@ -10,13 +10,16 @@ body {
   min-width: 100vw;
 }
 
+.navbar {
+  height: 100vh;
+}
+
 .nav {
   background-color: #f1f1f1;
   width: 100px;
-  margin: 10px;
+  margin: 0;
   text-align: center;
   line-height: 75px;
-  font-size: 30px;
 }
 
 .content {
@@ -25,6 +28,5 @@ body {
   margin: 10px;
   text-align: center;
   line-height: 75px;
-  font-size: 30px;
   align-self: center
 }
